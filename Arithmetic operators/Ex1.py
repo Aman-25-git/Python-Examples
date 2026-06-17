@@ -1,0 +1,10 @@
+#program on Arithmetic operators
+a=float(input("Enter a value of a:"))
+b=float(input("Enter a value of b:"))
+print("Sum({},{})={}".format(a,b,a+b))
+print("Difference({},{})={}".format(a,b,a-b))
+print("Product({},{})={}".format(a,b,a*b))
+print("Division({},{})={}".format(a,b,a/b))
+print("FloorDivision({},{})={}".format(a,b,a//b))
+print("Modulodiv({},{})={}".format(a,b,a%b))
+print("Pow({},{})={}".format(a,b,a**b))
