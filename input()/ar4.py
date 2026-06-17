@@ -1,0 +1,7 @@
+print("Enter the length of the rectangle:")
+a=input()
+print("Length of rec is:",a)
+print("Enter the breadth of the rectangle:")
+br=input()
+print("Breadth of rec is:",br)
+print("Area of rec is:",ar)

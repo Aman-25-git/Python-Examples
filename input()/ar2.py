@@ -1,0 +1,10 @@
+l=input("Enter Length:")
+b=input("Enter Breadth:")
+l1=float(l)
+b1=float(b)
+ar=l1*b1
+print("-"*50)
+print("Lenghth:{}".format(l))
+print("Breadth:{}".format(b))
+print("Area of rect:{}".format(ar))
+print("-"*50)
